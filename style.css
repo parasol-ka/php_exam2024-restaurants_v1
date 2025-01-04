@@ -1,0 +1,15 @@
+main {
+    padding: 2rem;
+}
+#top_restaurants_container{
+    border: 0.1rem solid black;
+    padding: 0.5rem;
+}
+.resto_links {
+    text-decoration: none;
+    color: black;
+}
+.top_resto_lines {
+    display: flex;
+    align-items: center;
+}
